@@ -80,6 +80,6 @@ Then I narrowed the data down to fit certian criteria. The criteria is that the 
 
 The last step in this assignment was creating a map with some additional information. The points are of each city in the hotel dataframe and the size of each point is based off of the humidity in each city. This map has additional information where if you hover over the point on the map you will see all the information about that point but you will also see the Country and the name of the nearest hotel. This map is below:
 
-  <img width="710" alt="Screenshot 2023-04-13 at 12 47 41 PM" src="https://user-images.githubusercontent.com/125215083/231842427-0ab9beb6-8f12-4d25-9c49-65b7c7175881.png">
+  <img width="1076" alt="Screenshot 2023-04-13 at 12 55 57 PM" src="https://user-images.githubusercontent.com/125215083/231844335-fdce9056-8440-4330-abbc-ba7b0bfda2e7.png">
 
 This is everything I did for this assignment. 
